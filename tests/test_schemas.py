@@ -1,4 +1,4 @@
-# apps/{{ app_name }}/urls.py
+# apps/{{ app_name }}/tests/test_schemas.py
 # Python imports
 
 
@@ -11,4 +11,4 @@
 # Local imports
 
 
-# Create your urlspatterns here.
+# Create your schemas tests here.
