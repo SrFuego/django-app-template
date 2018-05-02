@@ -1,4 +1,4 @@
-# {{ app_name }}/apps.py
+# apps/{{ app_name }}/apps.py
 # Python imports
 
 

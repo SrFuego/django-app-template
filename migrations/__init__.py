@@ -1,1 +1,1 @@
-# {{ app_name }}/migrations/__init__.py
+# apps/{{ app_name }}/migrations/__init__.py

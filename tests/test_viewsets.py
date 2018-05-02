@@ -1,4 +1,4 @@
-# {{ app_name }}/tests/test_viewsets.py
+# apps/{{ app_name }}/tests/test_viewsets.py
 # Python imports
 
 

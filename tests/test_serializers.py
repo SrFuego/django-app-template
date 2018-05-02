@@ -1,4 +1,4 @@
-# {{ app_name }}/tests/test_serializers.py
+# apps/{{ app_name }}/tests/test_serializers.py
 # Python imports
 
 

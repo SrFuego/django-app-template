@@ -1,4 +1,4 @@
-# {{ app_name }}/routers.py
+# apps/{{ app_name }}/routers.py
 # Python imports
 
 
