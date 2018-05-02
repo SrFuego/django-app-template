@@ -14,5 +14,5 @@ from django.apps import AppConfig
 
 # Configure your app here.
 class {{ app_name | title }}Config(AppConfig):
-    name = "{{ app_name }}"
+    name = "apps.{{ app_name }}"
     verbose_name = "{{ app_name | title }}"
