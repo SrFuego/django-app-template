@@ -1,3 +1,4 @@
+# {{ app_name }}/admin.py
 # Python imports
 
 

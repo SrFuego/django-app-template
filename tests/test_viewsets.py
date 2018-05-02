@@ -1,3 +1,4 @@
+# {{ app_name }}/tests/test_viewsets.py
 # Python imports
 
 

@@ -1,3 +1,4 @@
+# {{ app_name }}/models.py
 # Python imports
 
 

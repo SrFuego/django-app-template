@@ -1,3 +1,4 @@
+# {{ app_name }}/serializers.py
 # Python imports
 
 
